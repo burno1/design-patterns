@@ -6,7 +6,6 @@ public class AbstractFactoryApplication {
 
     private static final Kingdom kingdom = new Kingdom();
 
-
     public static void main(String[] args) {
         AbstractFactoryApplication.run();
     }
