@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/abstract-factory" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/abstract-factory" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/builder" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/builder" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/factory" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/factory" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/prototype" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/prototype" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/singleton" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/singleton" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
